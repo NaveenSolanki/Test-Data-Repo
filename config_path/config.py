@@ -1,0 +1,2 @@
+base_directory_project = r'C:\Users\navee\OneDrive\Desktop\Naveen\BhaviAI\algo-trading-system'
+# base_directory_project = r'C:\Users\Mallikarjun\Documents\projects\stock_market\code\git_repos\algo_trading_system'
